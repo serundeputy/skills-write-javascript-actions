@@ -1,4 +1,4 @@
-name: "gffs joke action"
+name: "my joke action"
 
 description: "use an external API to retrieve and display a joke"
 
